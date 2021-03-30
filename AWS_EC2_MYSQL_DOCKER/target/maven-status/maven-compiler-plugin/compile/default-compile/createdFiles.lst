@@ -1,0 +1,4 @@
+com\cognizant\AwsEc2MysqlDockerApplication.class
+com\cognizant\controller\DemoController.class
+com\cognizant\repository\EmployeeRepository.class
+com\cognizant\model\Employee.class
